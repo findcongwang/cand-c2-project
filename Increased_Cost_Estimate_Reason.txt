@@ -1,0 +1,4 @@
+With the new increased budget, I upgraded performance in several areas:
+EC2: Production instance to xlarge, more storage; Reserved instaces to large, more storage, double the amount (for auto scaling)
+RDS: Increased instace type to xlarge, added more storage (1TB)
+S3: Increased storage (1TB)

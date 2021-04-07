@@ -1,0 +1,3 @@
+I tried the accomdate the reduced budget by lowering the resource allocated to web and application servers.
+Main changes were on EC2 instances, where all production and reserve instances were downgraded one tier, reduce storage from 100->30GB and now has a 3-year term.
+Updated EC2 from a monthly storage of 100GB -> 30GB to bring cost just under reduced budget.
